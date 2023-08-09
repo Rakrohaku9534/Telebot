@@ -116,10 +116,10 @@ module.exports = alpha = async (alpha, bot) => {
                         inline_keyboard: [
                             [{
                                 text: 'Github',
-                                url: "https://github.com/zeeoneofficial/telebot"
+                                url: "https://github.com/Fahrul6868/telebot"
                             }, {
-                                text: 'YouTube',
-                                url: "https://www.youtube.com/@zeeoneofc"
+                                text: 'Instagram',
+                                url: "https://instagram.com/fahrul_mt"
                             }]
                         ]
                     }
