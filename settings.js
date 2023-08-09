@@ -22,6 +22,6 @@ global.BOT_NAME = "Zero-Mdོ" //your bot name
 global.OWNER_NAME = "ᴹᴿ᭄ Fahrul_cོ ×፝֟͜×" //your name
 global.OWNER_NUMBER = "6285712408309" //your telegram number
 global.OWNER = ["https://t.me/Fahrul_mt", "https://t.me/Fahrul_mt"] // pastikan username sudah sesuai agar fitur khusus owner bisa di pakai
-global.THUMBNAIL = "https://telegra.ph/file/9f1c675b22c865fd94543.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.THUMBNAIL = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.DONASI = "./image/donasi.jpg" // foto donasi di folder image
 global.lang = language //don't change
