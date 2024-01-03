@@ -38,7 +38,7 @@ module.exports = alpha = async (alpha, bot) => {
         const user = simple.getUserName(alpha.message.from)
         const pushname = user.full_name;
         const user_id = alpha.message.from.id + " "
-        const username = alpha.message.from.username ? alpha.message.from.username : "zeeone_ofc";
+        const username = alpha.message.from.username ? alpha.message.from.username : "Zero-Mdོ";
         const isCreator = OWNER[0].replace("https://t.me/", '') == alpha.update.message.from.username
         const from = alpha.message.chat.id
 
@@ -116,7 +116,7 @@ module.exports = alpha = async (alpha, bot) => {
                         inline_keyboard: [
                             [{
                                 text: 'Github',
-                                url: "https://github.com/Fahrul6868/telebot"
+                                url: "https://whatsapp.com/channel/0029VaDUaJC8kyyPvXrxte1x"
                             }, {
                                 text: 'Instagram',
                                 url: "https://instagram.com/fahrul_mt"
