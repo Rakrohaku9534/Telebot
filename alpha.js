@@ -10,7 +10,7 @@ const fs = require('fs')
 const os = require('os')
 const speed = require('performance-now')
 
-if (BOT_TOKEN == 'YOUR_TELEGRAM_BOT_TOKEN') {
+if (BOT_TOKEN == '6692303964:AAEKVPffjtE5twsFuAntqOJOnA9mKqpgnow') {
     return console.log(lang.noToken)
 }
 
@@ -39,7 +39,7 @@ async function startalpha() {
             fetchJson
         } = simple
         const pushname = user.full_name;
-        const username = user.username ? user.username : "zeeone_ofc";
+        const username = user.username ? user.username : "Zero-Mdོ";
         const isCreator = [alpha.botInfo.username, ...global.OWNER].map(v => v.replace("https://t.me/", '')).includes(user.username ? user.username : "-")
         const reply = async (text) => {
             for (var x of simple.range(0, text.length, 4096)) { //maks 4096 character, jika lebih akan eror
@@ -266,7 +266,7 @@ async function startalpha() {
                 inline_keyboard: [
                     [{
                         text: 'Script',
-                        url: "https://github.com/zeeoneofficial/telebot"
+                        url: "https://whatsapp.com/channel/0029VaDUaJC8kyyPvXrxte1x"
                     }, {
                         text: 'Owner',
                         url: OWNER[0]
@@ -285,7 +285,7 @@ async function startalpha() {
                 inline_keyboard: [
                     [{
                         text: 'Script',
-                        url: "https://github.com/zeeoneofficial/telebot"
+                        url: "https://whatsapp.com/channel/0029VaDUaJC8kyyPvXrxte1x"
                     }, {
                         text: 'Owner',
                         url: OWNER[0]
